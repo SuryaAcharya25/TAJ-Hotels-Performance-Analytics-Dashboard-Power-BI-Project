@@ -281,9 +281,9 @@ Passionate about transforming raw data into meaningful business insights through
 
 ### 🔗 Connect With Me
 
-- LinkedIn: Add Your LinkedIn URL
-- GitHub: Add Your GitHub URL
-- Email: Add Your Email Address
+- LinkedIn: www.linkedin.com/in/suryaacharya
+- GitHub: https://github.com/SuryaAcharya25
+- Email: suryaacharya279@gmail.com 
 
 ---
 
